@@ -30,5 +30,8 @@ Plug your QT Py into your computer using a known-good USB cable.
 #### A lot of people end up using charge-only USB cables and it is very frustrating! So make sure you have a USB cable you know is good for data sync.
 
 Double-click the small RST (reset) button, and you will see the NeoPixel RGB LED turn green. If it turns red, check the USB cable, try another USB port, etc.
-![QT_Py_Neopixel_Green](./images/QT_Py_Neopixel_green.jpg)
+![QT_Py_Neopixel_Green](./images/QT_Py_Neopixel_green.png)
 If double-clicking doesn't work the first time, try again. Sometimes it can take a few tries to get the rhythm right!
+
+You will see a new disk drive appear called QTPY_BOOT.
+![QT_Py_BOOT](./images/QT_PY_BOOT.jpg)
