@@ -36,4 +36,6 @@ Double-click the small RST (reset) button, and you will see the NeoPixel RGB LED
 If double-clicking doesn't work the first time, try again. Sometimes it can take a few tries to get the rhythm right!
 
 You will see a new disk drive appear called QTPY_BOOT.
-![QT_Py_BOOT](./images/QTPY_BOOT.png)
+
+<img src="https://github.com/levgrav/QT-Py-Temperature-Sensor/blob/main/images/QTPY_BOOT.png" width=50% height=50%>
+
