@@ -27,7 +27,7 @@ Download and save it to your desktop (or wherever is handy).
 
 Plug your QT Py into your computer using a known-good USB cable.
 
-A lot of people end up using charge-only USB cables and it is very frustrating! So make sure you have a USB cable you know is good for data sync.
+#### A lot of people end up using charge-only USB cables and it is very frustrating! So make sure you have a USB cable you know is good for data sync.
 
 Double-click the small RST (reset) button, and you will see the NeoPixel RGB LED turn green. If it turns red, check the USB cable, try another USB port, etc.
 
