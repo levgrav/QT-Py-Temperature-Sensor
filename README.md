@@ -39,3 +39,7 @@ You will see a new disk drive appear called QTPY_BOOT.
 
 <img src="https://github.com/levgrav/QT-Py-Temperature-Sensor/blob/main/images/QTPY_BOOT.png" width=50% height=50%>
 
+Drag the adafruit_circuitpython_etc.uf2 file to QTPY_BOOT. The red LED will flash. Then, the QTPY_BOOT drive will disappear and a new disk drive called CIRCUITPY will appear.
+
+That's it, you're done! :)
+
