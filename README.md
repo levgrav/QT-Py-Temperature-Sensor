@@ -17,6 +17,14 @@ Parts:
 * LEDs (3; 1 red, 1 green, 1 blue)
 * USB-C data cable
 * 4x 330 ohm resistors
+* 7x short jumper cables
+
+Optional (for temperature probe)
+
+* 4x long jumper cables
+* Tape
+* Heat shrink
+* Hot glue (NOT RECOMENDED)
 	
 ## Setup / Prerequisite installations
 Follow these instructions to set up you QT Py or go to the following link: https://learn.adafruit.com/adafruit-qt-py/overview
@@ -43,3 +51,4 @@ Drag the adafruit_circuitpython_etc.uf2 file to QTPY_BOOT. The red LED will flas
 
 That's it, you're done! :)
 
+## The Circuit
