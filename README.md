@@ -49,6 +49,34 @@ You will see a new disk drive appear called QTPY_BOOT.
 
 Drag the adafruit_circuitpython_etc.uf2 file to QTPY_BOOT. The red LED will flash. Then, the QTPY_BOOT drive will disappear and a new disk drive called CIRCUITPY will appear.
 
-That's it, you're done! :)
+### Installing MU Editor (Highly seggested)
+
+Mu is a simple code editor that works with the Adafruit CircuitPython boards. It's written in Python and works on Windows, MacOS, Linux and Raspberry Pi. The serial console is built right in so you get immediate feedback from your board's serial output!
+
+if you alread y hae a favorite IDE use that one because MU edotor is not the best IDE but it has the serial console built right in so at least use it for that.
 
 ## The Circuit
+
+<img src="https://github.com/levgrav/QT-Py-Temperature-Sensor/blob/main/images/circuit diagram.png">
+
+## Setting up the OLED display
+
+First thing you need to do is download this file onto any convenient folder (I just used my downloads folder).
+
+[adafruit-circuitpython-bundle-6.x-mpy-20210321.zip](https://github.com/levgrav/QT-Py-Temperature-Sensor/files/6535930/adafruit-circuitpython-bundle-6.x-mpy-20210321.zip)
+
+This is a ZIP file that contains many CircuitPython libraries, some of which we will need to copy onto the CIRCUITPY directory. Unzip the file.
+
+### For people with the optional solderable flash chip:
+
+For you it is very easy all you have to do is:
+
+1. Go into the new folder that was just created when you unzipped the file
+2. Go into the lib folder
+3. Find adafruit_displayio_ssd1306.mpy and adafruit_bus_device folders
+4. Copy them into the lib folder od you CIRCUITPY directory
+
+### For the people without the optional solderable chip (What I had):
+
+This is where it gets tricky and i had to do a lot of reaserch and trial and error. I can't 
+
