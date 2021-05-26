@@ -61,7 +61,7 @@ Go into the IDE that you are using and create a python file in your CIRCUITPY di
 
 You can now program in python and you are going to have to google the special things you can do with this board because I am not writing it here.
 
-My program:
+My code: [code.py](code.py)
 
 To run your code simply save it or hit the reset button. Any `print()` functions will show up on your serial console (in MU editor)
 
@@ -102,5 +102,5 @@ This is where it gets tricky and I had to do a lot of reaserch and trial and err
 
 You will only be able to display text but the other libraries take too much space that you don't have because you don't have the optional flash chip.
 
-My code (comments where there is something for the display):
+My code (comments where there is something for the display): [code.py](code.py)
 
